@@ -1,0 +1,6 @@
+C:\Users\petero.GAMA-SYSTEM\Documents\GitHub\ValTech\WorkingTime\WorkingTime.Library\bin\Debug\AppData\DayMetadata.xml
+C:\Users\petero.GAMA-SYSTEM\Documents\GitHub\ValTech\WorkingTime\WorkingTime.Library\bin\Debug\WorkingTime.Library.dll
+C:\Users\petero.GAMA-SYSTEM\Documents\GitHub\ValTech\WorkingTime\WorkingTime.Library\bin\Debug\WorkingTime.Library.pdb
+C:\Users\petero.GAMA-SYSTEM\Documents\GitHub\ValTech\WorkingTime\WorkingTime.Library\obj\Debug\WorkingTime.Library.dll
+C:\Users\petero.GAMA-SYSTEM\Documents\GitHub\ValTech\WorkingTime\WorkingTime.Library\obj\Debug\WorkingTime.Library.pdb
+C:\Users\petero.GAMA-SYSTEM\Documents\GitHub\ValTech\WorkingTime\WorkingTime.Library\obj\Debug\WorkingTime.Library.csprojResolveAssemblyReference.cache
